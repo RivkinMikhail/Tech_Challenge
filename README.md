@@ -1,15 +1,13 @@
 # Test_Challenge
 
-##Install##
+## Install ##
 Create new venv and the launch 
 
 `pip install -r requirements.txt`
 
-##Usage##
+## Usage ##
 
-Download weights form this link 
-
-[link](https://github.com/zylo117/Yet-Another-Efficient-Pytorch/releases/download/1.2/efficientdet-d8.pth)
+Download weights form this link: [link](https://github.com/zylo117/Yet-Another-Efficient-Pytorch/releases/download/1.2/efficientdet-d8.pth)
 
 And place them under `EfficientDet/weights`
 
