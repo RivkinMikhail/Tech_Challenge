@@ -1,5 +1,7 @@
 # Test_Challenge
 
+This solution is based on usage of three models [DeepForest](https://github.com/weecology/DeepForest) and [EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+
 ## Install ##
 Create new venv and then launch :
 
