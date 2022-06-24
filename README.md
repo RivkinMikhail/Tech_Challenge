@@ -1,7 +1,7 @@
 # Test_Challenge
 
 ## Install ##
-Create new venv and the launch 
+Create new venv and then launch 
 
 `pip install -r requirements.txt`
 
