@@ -3,6 +3,9 @@
 This solution is based on usage of two models: [DeepForest](https://github.com/weecology/DeepForest) and [EfficientDet Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 
 ## Install ##
+
+Python 3.8 required.
+
 Create new venv and then launch :
 
 `pip install -r requirements.txt`
